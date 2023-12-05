@@ -1,0 +1,4 @@
+namespace: openshift-etcd-backup
+
+resources:
+  - openshift4-backup.yaml
